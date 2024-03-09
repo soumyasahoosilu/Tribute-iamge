@@ -1,1 +1,1 @@
-# Tribute-iamge
+# Tribute-image
